@@ -36,3 +36,9 @@
 **Today's Progress**: Started a web-app to manage students and courses in a university.
 
 **Thoughts:** I'm using Flask and bootstrap for the first time. Getting the forms to not overlap was harder than I thought.
+
+### Day 1: December 8, 2018
+
+**Today's Progress**: Continued working on the web-app to manage students and courses in a university. The app can now display students and courses (both all and one at a time). Also, now handling POST request to add new students and courses, but still using hard-coded data.
+
+**Thoughts:** With flask-wtf encoding elements of a FieldList as seperate keys, parsing the request keys to create a list is messier than I like. I'm sure there's a better way to do this.
