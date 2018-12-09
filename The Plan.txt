@@ -1,0 +1,12 @@
+TODO
+
+Month 1
+1. Learn basics of web development
+2. Implement NEAT flappy bird
+3. Implement KNN classifier from scratch and compare with sklearn
+4. Implement SVM classifier from scratch and compare with sklearn
+5. Implement Decision trees from scratch
+6. Implement a basic Neural Network from scratch
+
+Months 2 and 3
+7. Fast.ai deep learning course

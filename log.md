@@ -42,3 +42,10 @@
 **Today's Progress**: Continued working on the web-app to manage students and courses in a university. The app can now display students and courses (both all and one at a time). Also, now handling POST request to add new students and courses, but still using hard-coded data.
 
 **Thoughts:** With flask-wtf encoding elements of a FieldList as seperate keys, parsing the request keys to create a list is messier than I like. I'm sure there's a better way to do this.
+
+
+### Day 2-3: December 9-10, 2018
+
+**Today's Progress**: Took a break and built an API to generate images of the mandelbrot set, and a webpage with embedded p5.js to display it.
+
+**Thoughts:** The performance leaves a lot to be desired, but I learned a lot about how to glue python and javascript together, and that's all that matters.
