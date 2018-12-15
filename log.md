@@ -49,3 +49,9 @@
 **Today's Progress**: Took a break and built an API to generate images of the mandelbrot set, and a webpage with embedded p5.js to display it.
 
 **Thoughts:** The performance leaves a lot to be desired, but I learned a lot about how to glue python and javascript together, and that's all that matters.
+
+### Day 4-8: December 11-15, 2018
+
+**Today's Progress**: It's been slow progress for the last 3 days, but finally finished the webapp to manage students and courses in a university
+
+**Thoughts:** Learned a lot about SQL and Sqlalchemy. It was challenging to figure out how to join and filter using the sqlalchemy orm. Also, I would have liked to implement multiple delete (using checkboxes) for students, courses and enrollments, but couldn't get the checkboxes to render correctly. Anyway, I'm happy with the way it turned out.
