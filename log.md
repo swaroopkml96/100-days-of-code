@@ -55,3 +55,9 @@
 **Today's Progress**: It's been slow progress for the last 3 days, but finally finished the webapp to manage students and courses in a university
 
 **Thoughts:** Learned a lot about SQL and Sqlalchemy. It was challenging to figure out how to join and filter using the sqlalchemy orm. Also, I would have liked to implement multiple delete (using checkboxes) for students, courses and enrollments, but couldn't get the checkboxes to render correctly. Anyway, I'm happy with the way it turned out.
+
+### Day 9: January 3, 2018
+
+**Today's Progress**: Took a long break beacause of uni exams but finally got around to making a web app to demonstrate steering behaviour. Also wrote a medium post explaining how to embed a p5js script in a webpage and host it on heroku.
+
+**Thoughts:** I'm beginning to use these p5.js sketches as excuses to keep me working on ML/DL which I really want to get to. I'll make one more p5js sketch (fourier transforms / epicycles from drawing), make a personal website, and then focus on ML/DL.
